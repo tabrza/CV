@@ -1,4 +1,9 @@
-### TABISH RAZA	tabishraza@gmail.com │ https://www.linkedin.com/in/traza
+# TABISH RAZA
+####tabishraza@gmail.com │ https://www.linkedin.com/in/traza
+
+I am keen to obtain a junior developer role in a progressive and cutting-edge company, where I can grow and refine my programming skills, whilst also contributing to business growth and development. I am particularly interested in business process improvement through technology application.
+
+I have built up a broad range of experience from data processing and company analysis in the fund management industry, to developing client relationships and sales skills as a shipbroker. Most recently, I gained detailed insight into the use of technology in finance and insurance, particularly Blockchain, whilst in a business development role at an insur-tech start up. This led me to Makers Academy to gain genuine programming skills myself.
 
 ## INTRODUCTORY PROFILE 	
 
@@ -14,9 +19,10 @@ Blends strong planning, analytical, and technical acumen to ensure excellence in
 ## CORE COMPETENCIES 	
 
 Full Project Lifecycle Management │ Logistics │ Supply Chain Optimisation │ Strategy Planning │ Budgeting
-Sourcing │ Procurement │ Lean Practices │ Operational Transitions / Expansions │ Troubleshooting
-Solutions Development │ Consulting │ Stakeholder Relations │ Global Operations │ Transportation
-New Systems Implementation │ Cross-Functional Communications
+Sourcing │
+Procurement │ Lean Practices │ Operational Transitions / Expansions │ Troubleshooting | Solutions Development │ Consulting |
+Stakeholder Relations │ Global Operations │ Transportation | New Systems Implementation │ Cross-Functional Communications |
+
 Technical Skills: Web Development (HTML, CSS, JavaScript), CMS (Drupal, Joomla)
 
 ## EXPERIENCE
@@ -75,10 +81,6 @@ Select Highlights:
 
 #### Full Stack Web Development Certification │ Makers Academy	10.2017-01-2018
 
-#### Agile Software Development – ETH Zurich	04.2016-Present
-#### Java Programming: An Introduction to Software – Duke University
-#### Responsive Website Development and Design Specialisation – University of London
-
 #### MSc International Business and Emerging Markets │ University of Edinburgh	2012-2013
 Dissertation: ‘Social Enterprises in a Near-Knightian Context’
 
@@ -86,11 +88,16 @@ Dissertation: ‘Social Enterprises in a Near-Knightian Context’
 Specialisation: Business Studies. Minor: Entrepreneurship
 Dissertation: ‘How to Build Trust under Extra Ordinary Circumstances’
 
-#### Key Coursera Certificates
-Java Programming: Solving Problems with Software (R63B8H9APXJF)
-Responsive Web Design (2B65P9SS5JAM)
-Web Application Development with JavaScript and MongoDB (BLCTTST4CLLD)
+#### Online Courses + key certificates
+###### Agile Software Development – ETH Zurich	04.2016-Present
+###### Java Programming: An Introduction to Software – Duke University
+###### Responsive Website Development and Design Specialisation – University of London
+**Java Programming: Solving Problems with Software (R63B8H9APXJF)**
+**Responsive Web Design (2B65P9SS5JAM)**
+**Web Application Development with JavaScript and MongoDB (BLCTTST4CLLD)**
 
 International Student Committee Member │ University of Amsterdam	2011-2012
+
 Director of Debates │ University of Amsterdam	2009-2012
+
 Student Representative │ Faculty Evaluation Committee	2009-2012
