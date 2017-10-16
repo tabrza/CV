@@ -3,7 +3,7 @@
 
 I am keen to obtain a junior developer role in a progressive and cutting-edge company, where I can grow and refine my programming skills, whilst also contributing to business growth and development. I am particularly interested in business process improvement through technology application.
 
-I have built up a broad range of experience from data processing and company analysis in the fund management industry, to developing client relationships and sales skills as a shipbroker. Most recently, I gained detailed insight into the use of technology in finance and insurance, particularly Blockchain, whilst in a business development role at an insur-tech start up. This led me to Makers Academy to gain genuine programming skills myself.
+I have built up a broad range of experience from project management, solutions implementation and trouble shooting in logistics, to developing client relationships and sales skills at a high level as a Business Development Manager. I am constantly looking to learn and improve my skillset. Having already overseen the development and implementation of an ERP system for my company, I have seen the positive effects such as the efficiencies through automation that software can generate. Looking to work in business process improvement through applying technology, I see it vital to better understand programming and how it pieces together. As a result, I will be joining Makers Academy, a web developer bootcamp, in October for their full stack web development program. 
 
 ## INTRODUCTORY PROFILE 	
 
