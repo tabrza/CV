@@ -1,6 +1,6 @@
-###TABISH RAZA	tabishraza@gmail.com │ https://www.linkedin.com/in/traza
+### TABISH RAZA	tabishraza@gmail.com │ https://www.linkedin.com/in/traza
 
-##INTRODUCTORY PROFILE 	
+## INTRODUCTORY PROFILE 	
 
 Dynamic management professional with more than four years of combined experience driving operations ranging from logistics for household effects and cargo and supply chain to business development.
 Blends strong planning, analytical, and technical acumen to ensure excellence in resources procurement, warehousing, allocation, and distribution.
@@ -11,7 +11,7 @@ Blends strong planning, analytical, and technical acumen to ensure excellence in
 •	Enjoys maintaining awareness of new and emerging technologies, including SAP tools while developing knowledge surrounding process analysis and modelling.
 •	Strong academic background, including a Bachelor’s degree in Economics at the University of Amsterdam.
 
-##CORE COMPETENCIES 	
+## CORE COMPETENCIES 	
 
 Full Project Lifecycle Management │ Logistics │ Supply Chain Optimisation │ Strategy Planning │ Budgeting
 Sourcing │ Procurement │ Lean Practices │ Operational Transitions / Expansions │ Troubleshooting
@@ -19,12 +19,12 @@ Solutions Development │ Consulting │ Stakeholder Relations │ Global Operat
 New Systems Implementation │ Cross-Functional Communications
 Technical Skills: Web Development (HTML, CSS, JavaScript), CMS (Drupal, Joomla)
 
-##EXPERIENCE
+## EXPERIENCE
 
-###Ocean Air International, Islamabad, Pakistan
+### Ocean Air International, Islamabad, Pakistan
 Premier logistics company comprised of various branches throughout Pakistan
 
-####Manager Operations and Business Development	03.2015-09.2017
+#### Manager Operations and Business Development	03.2015-09.2017
 Promoted to orchestrate global logistics operations, including packing, transportation, shipping, and delivery of products to a wide range of blue chip organisations (including: British American Tobacco, World Bank, Nestle, British Council, IFRC, Yamaha) and several embassies (including: US, German, French embassy). Coordinate efforts of 40 team members focused on achieving KPIs and superior ratings in performance appraisals.
 
 Select Highlights:
@@ -35,7 +35,7 @@ Select Highlights:
 •	Slashed waste by 10% while optimising inventory accuracy through rollout of stock control process.
 •	Played a key role in client satisfaction / retention through participation in events, meetings, and conferences.
 
-####Business Development Manager	10.2013-02.2015
+#### Business Development Manager	10.2013-02.2015
 Selected to create, implement, and manage customised ERP software automating operational processes.
 
 Select Highlights:
@@ -48,45 +48,45 @@ Select Highlights:
 •	Impacted client relations and marketing by participating in conferences, receptions, and events.
 
 
-##OTHER PROJECTS 	
+## OTHER PROJECTS 	
 
-####The Quality Pages (thequalitypages.com), Islamabad, Pakistan | CEO	11.2016-Present
+#### The Quality Pages (thequalitypages.com), Islamabad, Pakistan | CEO	11.2016-Present
 •	Built and hosted this online business directory that provides clients with a tool to verify businesses matching their needs in Pakistan.
 •	Lead site marketing efforts through traditional and social media platforms, acquiring 150 member companies to date.
 •	Identified need for a verification and review process enabling customers to leave comments on services provided and products delivered.
 •	Developed / implemented new revenue streams and expanded service locations within Pakistan.
 
-####Similie, Dili, East Timor | Operations Consultant	07.2016-10.2016
+#### Similie, Dili, East Timor | Operations Consultant	07.2016-10.2016
 •	Created strategy roadmap, workflows, content for conventions, contract creation, and led all aspects of business development of this start-up based out of Dili, East Timor looking to combine software solutions with a change management approach to enable INGOs and government departments based in the WaSH (Water, Sanitation and Hygiene) sector to integrate business-critical and long-term software.
 •	Secured contracts valued at over $200K through preparation of technical / financial proposals in alignment with client needs and RFPs.
 •	Established new contacts in agricultural sector, resulting in a $36K business proposal.
 
-####Infinite Energy, Rawalakot, Kashmir | CEO	11.2013-11.2014
+#### Infinite Energy, Rawalakot, Kashmir | CEO	11.2013-11.2014
 •	Innovated social venture to combat energy crisis in Kashmir through solar lanterns, sourcing vendors from China, testing various samples, and completing successful trial of 300 solar lanterns.
 •	Positively impacted 300 families, improving economic gains and children’s ability to study.
 •	Contributed to reductions in environmental impact, minimising usage of oil lanterns and batteries.
 
-####Ernst and Young (E&Y), Edinburgh, UK | External Consultant	01.2013-04.2013
+#### Ernst and Young (E&Y), Edinburgh, UK | External Consultant	01.2013-04.2013
 •	Assigned to external consultancy project to expand E&Y’s ‘intrapreneur’ programme into EMEIA region.
 •	Organised and led team efforts as well as conducted research into viable entrepreneurial markets, identifying and cultivating potential partners.
 
 
-##QUALIFICATIONS AND EDUCATION 	
+## QUALIFICATIONS AND EDUCATION 	
 
-####Full Stack Web Development Certification │ Makers Academy	10.2017-01-2018
+#### Full Stack Web Development Certification │ Makers Academy	10.2017-01-2018
 
-####Agile Software Development – ETH Zurich	04.2016-Present
-####Java Programming: An Introduction to Software – Duke University
-####Responsive Website Development and Design Specialisation – University of London
+#### Agile Software Development – ETH Zurich	04.2016-Present
+#### Java Programming: An Introduction to Software – Duke University
+#### Responsive Website Development and Design Specialisation – University of London
 
-####MSc International Business and Emerging Markets │ University of Edinburgh	2012-2013
+#### MSc International Business and Emerging Markets │ University of Edinburgh	2012-2013
 Dissertation: ‘Social Enterprises in a Near-Knightian Context’
 
-####BSc Economics and Business │ University of Amsterdam	2009-2012
+#### BSc Economics and Business │ University of Amsterdam	2009-2012
 Specialisation: Business Studies. Minor: Entrepreneurship
 Dissertation: ‘How to Build Trust under Extra Ordinary Circumstances’
 
-####Key Coursera Certificates
+#### Key Coursera Certificates
 Java Programming: Solving Problems with Software (R63B8H9APXJF)
 Responsive Web Design (2B65P9SS5JAM)
 Web Application Development with JavaScript and MongoDB (BLCTTST4CLLD)
