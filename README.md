@@ -1,5 +1,5 @@
 # TABISH RAZA
-####tabishraza@gmail.com │ https://www.linkedin.com/in/traza
+#### tabishraza@gmail.com │ https://www.linkedin.com/in/traza
 
 I am keen to obtain a junior developer role in a progressive and cutting-edge company, where I can grow and refine my programming skills, whilst also contributing to business growth and development. I am particularly interested in business process improvement through technology application.
 
@@ -88,10 +88,10 @@ Dissertation: ‘Social Enterprises in a Near-Knightian Context’
 Specialisation: Business Studies. Minor: Entrepreneurship
 Dissertation: ‘How to Build Trust under Extra Ordinary Circumstances’
 
-#### Online Courses + key certificates
-###### Agile Software Development – ETH Zurich	04.2016-Present
-###### Java Programming: An Introduction to Software – Duke University
-###### Responsive Website Development and Design Specialisation – University of London
+#### Online Courses + Key Certificates 04.2016-Present
+##### Agile Software Development – ETH Zurich
+##### Java Programming: An Introduction to Software – Duke University
+##### Responsive Website Development and Design Specialisation – University of London
 - Java Programming: Solving Problems with Software (R63B8H9APXJF)
 - Responsive Web Design (2B65P9SS5JAM)**
 - Web Application Development with JavaScript and MongoDB (BLCTTST4CLLD)**
