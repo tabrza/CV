@@ -16,9 +16,19 @@ Blends strong planning, analytical, and technical acumen to ensure excellence in
 - Enjoys maintaining awareness of new and emerging technologies, including SAP tools while developing knowledge surrounding process analysis and modelling.
 - Strong academic background, including a Master’s degree in Business at the University of Edinburgh.
 
+## PROJECTS
+
+For a complete list, see my [GitHub](https://github.com/diaryofdiscoveries?tab=repositories).
+
+| Project   | Description | Technologies |
+|---        |---          |---           |
+| [Poke-Battle](https://github.com/tabrza/pokebattle-react) | A Pokemon style battle game built in React. | React, Jekyll |
+| [Makers-BnB](https://github.com/tabrza/makers-bnb) | An AirBnB clone in Javascript | Javascript, Jasmine |
+| [News Summary](https://github.com/tabrza/news-summary-challenge) | An attempt at making a basic app in an Agile fashion in vanilla Javascript  | Javascript |
+
 ## EXPERIENCE
 
-Ocean Air International, Pakistan Manager Operations and Business Development             (Oct 2013 - Sept 2017)
+#### Ocean Air International, Pakistan | Manager Operations and Business Development Oct. 2013 - Sept. 2017
 Regional leader in logistics & supply chain management through technology
 - Oversaw development and implementation of ERP system automating CRM & shipment oversight
 - Directed  workflows of  40 team members in overall operations incl. packing, admin depts and 3 branch managers
