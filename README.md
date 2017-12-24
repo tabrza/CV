@@ -3,9 +3,9 @@
 
 I am keen to obtain a junior developer role in a progressive and cutting-edge company, where I can grow and refine my programming skills, whilst also contributing to business growth and development. I am particularly interested in business process improvement through technology application.
 
-I have built up a broad range of experience from project management, solutions implementation and trouble shooting in logistics, to developing client relationships and sales skills at a high level as a Business Development Manager. I am constantly looking to learn and improve my skillset. Having already overseen the development and implementation of an ERP system for my company, I have seen the positive effects such as the efficiencies through automation that software can generate. Looking to work in business process improvement through applying technology, I see it vital to better understand programming and how it pieces together. As a result, I will be joining Makers Academy, a web developer bootcamp, in October for their full stack web development program. 
+I have built up a broad range of experience from project management, solutions implementation and trouble shooting in logistics, to developing client relationships and sales skills at a high level as a Business Development Manager. I am constantly looking to learn and improve my skillset. Having overseen the development and implementation of an ERP system for my previous company, I saw the positive effects such as the efficiencies through automation that software can generate. Looking to work in business process improvement through applying technology, I saw it as being vital to better understand programming and how it pieces together. As a result, I joined Makers Academy, a web developer bootcamp, in October for their full stack web development program.
 
-## INTRODUCTORY PROFILE 	
+## PROFILE 	
 
 Dynamic management professional with more than four years of combined experience driving operations ranging from logistics for household effects and cargo and supply chain to business development.
 Blends strong planning, analytical, and technical acumen to ensure excellence in resources procurement, warehousing, allocation, and distribution.
@@ -14,72 +14,43 @@ Blends strong planning, analytical, and technical acumen to ensure excellence in
 - Multilingual; speaks fluent English, proficient in Urdu and Dutch with basic knowledge of French.
 - Cemented expertise encompassing Agile (Scrum) software development via professional development.
 - Enjoys maintaining awareness of new and emerging technologies, including SAP tools while developing knowledge surrounding process analysis and modelling.
-- Strong academic background, including a Bachelor’s degree in Economics at the University of Amsterdam.
-
-## CORE COMPETENCIES 	
-
-Full Project Lifecycle Management │ Logistics │ Supply Chain Optimisation │ Strategy Planning │ Budgeting
-Sourcing │
-Procurement │ Lean Practices │ Operational Transitions / Expansions │ Troubleshooting | Solutions Development │ Consulting |
-Stakeholder Relations │ Global Operations │ New Systems Implementation │ Cross-Functional Communications |
-
-Technical Skills: Web Development (HTML, CSS, JavaScript), CMS (Drupal, Joomla)
+- Strong academic background, including a Master’s degree in Business at the University of Edinburgh.
 
 ## EXPERIENCE
 
-### Ocean Air International, Islamabad, Pakistan
-Premier logistics company comprised of various branches throughout Pakistan
+Ocean Air International, Pakistan Manager Operations and Business Development             (Oct 2013 - Sept 2017)
+Regional leader in logistics & supply chain management through technology
+- Oversaw development and implementation of ERP system automating CRM & shipment oversight
+- Directed  workflows of  40 team members in overall operations incl. packing, admin depts and 3 branch managers
+- Account manager for clients  valued at over $4M including the US Embassy Pakistan and the World Bank
+- Slashed waste by 10% by optimising stock control process
+- Generated ~$450k revenue  from B2B and B2C clients in 2015-16 through acquisition of new clientele.
+- Met with and oversaw initial contract negotiations with Chinese companies for projects under CPEC
 
-#### Manager Operations and Business Development	03.2015-09.2017
-Promoted to orchestrate global logistics operations, including packing, transportation, shipping, and delivery of products to a wide range of blue chip organisations (including: British American Tobacco, World Bank, Nestle, British Council, IFRC, Yamaha) and several embassies (including: US, German, French embassy). Coordinate efforts of 40 team members focused on achieving KPIs and superior ratings in performance appraisals.
-
-Select Highlights:
-- Provide overall management of key accounts valued at over $4M with US Embassy Pakistan, Peter Justesen, and the World Bank.
-- Manage administration, tendering, certification, and internal documentation functions.
-- Delivered more than $450K in additional revenues through expert acquisition of clients.
-- Successfully secured new high-value contracts through preparation of technical / financial proposals to meet RFPs based on client needs as well as available resources.
-- Slashed waste by 10% while optimising inventory accuracy through rollout of stock control process.
-- Played a key role in client satisfaction / retention through participation in events, meetings, and conferences.
-
-#### Business Development Manager	10.2013-02.2015
-Selected to create, implement, and manage customised ERP software automating operational processes.
-
-Select Highlights:
-- Introduced supply chain security management system in alignment with ISO 28000 standards.
-- Elevated stock control, real-time tracking, and oversight of shipments through new system implementation.
-- Achieved major improvements in delivery times (20%) through implementation of new labelling system.
-- Enforced compliance with FIDI and ISO certifications, ensuring proper set-up of risk mitigating measures.
-- Spearheaded full lifecycle of global door-to-door moves.
-- Project managed highly successful RFPs, encompassing high security, time sensitive operations involving 100+ staff members of US Embassy in Islamabad.
-- Impacted client relations and marketing by participating in conferences, receptions, and events.
+#### Similie (similie.org), Dili, East Timor | Partner, Operations Consultant	Jul. 2016 - Oct. 2016
+Start-up combining software solutions with change management to help govt. depts. and iNGOs to improve service delivery
+- Created strategy roadmap, workflows, content for conventions
+- Secured contracts valued ~ $200k through preparation of technical proposals in alignment with client needs
 
 
 ## OTHER PROJECTS 	
 
-#### The Quality Pages (thequalitypages.com), Islamabad, Pakistan | CEO	11.2016-Present
-- Built and hosted this online business directory that provides clients with a tool to verify businesses matching their needs in Pakistan.
-- Lead site marketing efforts through traditional and social media platforms, acquiring 150 member companies to date.
-- Identified need for a verification and review process enabling customers to leave comments on services provided and products delivered.
-- Developed / implemented new revenue streams and expanded service locations within Pakistan.
+#### Laptop Drive, Pakistan | Campaign Manager Aug. 2017 - Sept. 2017
+- Fundraised, refurbished and donated 27 laptops to 5 schools, enabling 1355 children from underprivileged backgrounds to have greater access to an understanding of computers.
 
-#### Similie (similie.org), Dili, East Timor | Operations Consultant	07.2016-10.2016
-- Created strategy roadmap, workflows, content for conventions, contract creation, and led all aspects of business development of this start-up based out of Dili, East Timor looking to combine software solutions with a change management approach to enable INGOs and government departments based in the WaSH (Water, Sanitation and Hygiene) sector to integrate business-critical and long-term software.
-- Secured contracts valued at over $200K through preparation of technical / financial proposals in alignment with client needs and RFPs.
-- Established new contacts in agricultural sector, resulting in a $36K business proposal.
+#### The Quality Pages (thequalitypages.com), Islamabad, Pakistan | CEO	Nov. 2016 - Present
+- An online business directory that provides clients with a tool to verify businesses matching their needs. TheQualityPages is a personal project seeking to minimise the information gap between perceived offerings and services rendered by companies.
 
-#### Infinite Energy, Rawalakot, Kashmir | CEO	11.2013-11.2014
-- Innovated social venture to combat energy crisis in Kashmir through solar lanterns, sourcing vendors from China, testing various samples, and completing successful trial of 300 solar lanterns.
-- Positively impacted 300 families, improving economic gains and children’s ability to study.
-- Contributed to reductions in environmental impact, minimising usage of oil lanterns and batteries.
-
-#### Ernst and Young (E&Y), Edinburgh, UK | External Consultant	01.2013-04.2013
-- Assigned to external consultancy project to expand E&Y’s ‘intrapreneur’ programme into EMEIA region.
-- Organised and led team efforts as well as conducted research into viable entrepreneurial markets, identifying and cultivating potential partners.
-
+#### Infinite Energy, Pakistan | Founder Nov. 2013 - Nov. 2014
+- Social venture to combat energy crisis in Kashmir through solar lanterns. Trial of 300 solar lanterns, positively impacting 300 families, improving economic gains and children’s ability to study.
 
 ## QUALIFICATIONS AND EDUCATION 	
 
-#### Full Stack Web Development Certification │ Makers Academy	10.2017-01-2018
+#### Full Stack Web Development Certification │ Makers Academy	Oct. 2017- Jan. 2018
+Makers Academy is a highly selective, 12 week, full-time course in web development based in London.
+- Technologies: Javascript, Ruby, REACT, PostgresQL, AJAX, JSON, version control with Git
+- Testing frameworks: RSpec, Jasmine
+- Methodologies: Agile/XP, Object-oriented design, Test Driven Development
 
 #### MSc International Business and Emerging Markets │ University of Edinburgh	2012-2013
 Dissertation: ‘Social Enterprises in a Near-Knightian Context’
@@ -87,11 +58,3 @@ Dissertation: ‘Social Enterprises in a Near-Knightian Context’
 #### BSc Economics and Business │ University of Amsterdam	2009-2012
 Specialisation: Business Studies. Minor: Entrepreneurship
 Dissertation: ‘How to Build Trust under Extra Ordinary Circumstances’
-
-#### Online Courses + Key Certificates 04.2016-Present
-##### Agile Software Development – ETH Zurich
-##### Java Programming: An Introduction to Software – Duke University
-##### Responsive Website Development and Design Specialisation – University of London
-- Java Programming: Solving Problems with Software (R63B8H9APXJF)
-- Responsive Web Design (2B65P9SS5JAM)**
-- Web Application Development with JavaScript and MongoDB (BLCTTST4CLLD)**
