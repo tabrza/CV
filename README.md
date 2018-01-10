@@ -23,7 +23,6 @@ For a complete list, see my [GitHub](https://github.com/diaryofdiscoveries?tab=r
 | Project   | Description | Technologies |
 |---        |---          |---           |
 | [Poke-Battle](https://github.com/tabrza/pokebattle-react) | A Pokemon style battle game built in React using Rails at the back end. | React, Jekyll, Ruby on Rails |
-| [Makers-BnB](https://github.com/tabrza/makers-bnb) | An AirBnB clone in Javascript. | Ruby, Javascript, RSpec, Jasmine|
 | [Bank-JS](https://github.com/tabrza/Bank-JS) | A basic banking application in Javascript following a TDD approach.  | Javascript, Jasmine |
 
 ## EXPERIENCE
