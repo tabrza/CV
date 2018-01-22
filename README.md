@@ -18,12 +18,15 @@ Blends strong planning, analytical, and technical acumen to ensure excellence in
 
 ## PROJECTS
 
-For a complete list, see my [GitHub](https://github.com/diaryofdiscoveries?tab=repositories).
+For a complete list, see my [GitHub](https://github.com/tabrza?tab=repositories).
 
 | Project   | Description | Technologies |
 |---        |---          |---           |
+| [Foodie](https://github.com/tabrza/foodie) | fooDeals is an e-commerce app to search for special offers built in React and Node | React, Redux, Router, Node, Mongo, Mongoose, Mocha, Chai, Enzyme, Sinon |
 | [Poke-Battle](https://github.com/tabrza/pokebattle-react) | A Pokemon style battle game built in React using Rails at the back end. | React, Jekyll, Ruby on Rails |
 | [Bank-JS](https://github.com/tabrza/Bank-JS) | A basic banking application in Javascript following a TDD approach.  | Javascript, Jasmine |
+| [Makers-BNB](https://github.com/tabrza/makers-bnb) | A mock version of AirBnB that allows the user to create, search and book venues | Javascript, JQuery, Ruby, PostgresQL |
+| [GildedRose](https://github.com/tabrza/GildedRose) | Gilded Rose tech test, a well known Kata developed by Terry Hughes | Javascript, Jasmine |
 
 ## EXPERIENCE
 
