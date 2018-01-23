@@ -7,14 +7,12 @@ I have built up a broad range of experience from project management, solutions i
 
 ## PROFILE 	
 
-Dynamic management professional with more than four years of combined experience driving operations ranging from logistics for household effects and cargo and supply chain to business development.
-Blends strong planning, analytical, and technical acumen to ensure excellence in resources procurement, warehousing, allocation, and distribution.
-- Reduced waste and modernised operations / processes; proactively identified and championed opportunities for continuous improvement.
-- Committed to the continuous delivery of products / services to clients on time and within budgets of up to $4.5 million.
-- Multilingual; speaks fluent English, proficient in Urdu and Dutch with basic knowledge of French.
-- Cemented expertise encompassing Agile (Scrum) software development via professional development.
-- Enjoys maintaining awareness of new and emerging technologies, including SAP tools while developing knowledge surrounding process analysis and modelling.
-- Strong academic background, including a Master’s degree in Business at the University of Edinburgh.
+“Think globally, act locally”
+- Junior Developer with 4 year professional experience in project management & global operations in the logistics industry.
+- Passionate about: Using technology to tackle challenges in client facing roles.
+- Technologies: Javascript, Ruby, REACT, PostgresQL, AJAX, JSON, version control with Git
+- Key Skills: Excelling in high-pressure and deadline-driven contexts, team building & communication.
+- Multilingual; speak fluent English, Urdu/Hindi and Dutch.
 
 ## PROJECTS
 
